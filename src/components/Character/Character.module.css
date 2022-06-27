@@ -2,7 +2,7 @@
   /* Fill the available container height */
   height: 100%;
   position: fixed;
-  right: 20px;
-  top: 100px;
+  right: 0px;
+  top: 50px;
   min-height: 500px;
 }
