@@ -86,10 +86,10 @@ function App() {
       <div
         style={{
           backgroundColor: 'hsl(195deg, 20%, 86%)',
-          height: '500px',
-          marginBottom: '-100px',
-          position: 'sticky',
-          bottom: '0',
+          height: '40%',
+          top: '60%',
+          width: '100%',
+          position: 'fixed',
           zIndex: '-1',
         }}
       ></div>
